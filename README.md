@@ -1,6 +1,6 @@
 # Python on Nanoserver
 
-Run python in Windows Nanoserver Container. 
+Run Python in Windows Nanoserver Container. 
 
 The official Docker Library repository has only support for Windows Server core containers
 
